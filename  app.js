@@ -12,6 +12,7 @@ function criaCartao(categoria, pergunta, resposta){
     <div class="cartao_conteudo_resposta">
         <p>${resposta}</p>
     </div>
+    </div>
     `
     let respostaEstaVisivel = false
 
@@ -24,5 +25,5 @@ function criaCartao(categoria, pergunta, resposta){
 
 
     container.appendChild(cartao)
-    
+
 }
