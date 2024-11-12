@@ -1,35 +1,35 @@
 criaCartao(
-    'Programação',
-    'O que é Python?',
-    'O Python é uma linguagem de programação'
-)
-
-criaCartao(
-    'Geografia',
-    'Qual a capital da França?',
-    'A capital da França é Paris'
-)
-
-criaCartao(
-    'Programação',
-    'O que é uma função?',
-    'Uma função é um bloco de código que executa alguma tarefa'
-)
-
-criaCartao(
-    'Lingua inglesa',
-    'Como se diz oi em Inglês?',
-    'Oi em ingles é HI (RAI)'
+    'Biologia',
+    'O que são células procariontes?',
+    'Células procariontes são células simples'
 )
 
 criaCartao(
     'Biologia',
-    'Quem é considerado o pai da genética?',
-    'Gregor Mendel'
+    'Qual é a função de mitocôndria?',
+    'A mitocôndria é responsável pela produção de energia na célula'
 )
 
 criaCartao(
-    'Matemática',
-    'Qual é o valor de Pi?',
-    '3,14'
+    'Biologia',
+    'O que é a fotossíntese?',
+    'A fotossíntese é o processo pelo qual as plantas, algas e algumas bactérias convertem energia'
+)
+
+criaCartao(
+    'Biologia',
+    'O que é a seleção natural?',
+    'A seleção natural é o processo pelo qual organismos mais adaptados ao ambiente têm maiores chances de sobreviver'
+)
+
+criaCartao(
+    'Biologia',
+    'O que é vírus?',
+    'Vírus são entidades biológicas que não possuem estrutura celular'
+)
+
+criaCartao(
+    'Biologia',
+    'O que é o DNA?',
+    'O DNA(ácido desoxirribonucleico)'
 )
